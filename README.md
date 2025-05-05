@@ -14,3 +14,8 @@ Vector DataBase:
 
 Links I generally read and found interesting:
 - https://medium.com/prompt-prompts/boost-ai-reasoning-with-intentional-hallucination-prompt-196d6cb1b3c6
+
+
+Reinforcement Learning:
+- https://www.youtube.com/watch?v=nIgIv4IfJ6s&ab_channel=CrashCourse
+- 
